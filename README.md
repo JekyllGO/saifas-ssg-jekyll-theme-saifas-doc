@@ -2,4 +2,4 @@
 
 #jekyll-theme-saifas-doc
 
-[SAIFAS Jekyll theme SAIFAS](https://github.com/JekyllGO/saifas-ssg-jekyll-theme-saifas/blob/main/README.md
+[SAIFAS Jekyll theme SAIFAS](https://github.com/JekyllGO/saifas-ssg-jekyll-theme-saifas/blob/main/README.md)
